@@ -40,7 +40,7 @@ It will cost you nothing to give it a try - opening the door on vast savings in 
 
 Get In Touch Today
 <br>CONTACT US!
-<br>&nbsp;INTERESTED IN BECOMING A RE-SELLER? WE WERE APPROACHED BY COMPANIES AT THE SHOW WHO WERE KEEN TO PARTNER OR RE-SELL VISUALFACTORY. IF YOU'D LIKE TO FIND OUT MORE, PLEASE GET IN TOUCH.
+<br> INTERESTED IN BECOMING A RE-SELLER? WE WERE APPROACHED BY COMPANIES AT THE SHOW WHO WERE KEEN TO PARTNER OR RE-SELL VISUALFACTORY. IF YOU'D LIKE TO FIND OUT MORE, PLEASE GET IN TOUCH.
 <br>Hypertherm Production LineVisualFactory Explained:
 <br>Q&A with our Managing Director
 
@@ -48,7 +48,7 @@ GREAT to see VisualFactory featured in the March issue of Assembly Magazine
 
 Managing Director Phil Borland talked extensively to the magazine's reporter to give him an insight into the world of visual work instructions - and the benefits they bring.
 
-His knowledge unrivalled; here's an overview of the answers he provided. Essential reading for anyone looking to start their lean journey...
+His knowledge unrivalled; here's an overview of the answers he provided. Essential reading for anyone looking to start their lean journey…
 
 Q: How common are paperless/visual work instructions today?
 
@@ -66,7 +66,7 @@ Q: What are manufacturers looking for today in paperless work instructions?
 
 A: It varies greatly. We often know how the evaluation will turn out during the first few minutes of discussion. Although VisualFactory delivers paperless work instructions it is much more than that, so we are much happier talking to customers who are looking to implement world class, lean, six sigma manufacturing in a simple, standardized and sustainable way. The businesses that will get the most out of the system are those asking: "How can I improve quality whilst reducing cost in my complex manufacturing environment?" Many companies aren't even looking - they assume it cannot be done so keep doing it the same old way.
 
-&nbsp;Q: How are today's paperless systems different to what was available 5-10 years ago?
+ Q: How are today's paperless systems different to what was available 5-10 years ago?
 
 A: 10 Years ago VisualFactory delivered step by step work instructions and could cope with a degree of product variety. Today it provides a comprehensive Lean shop floor execution system.
 
