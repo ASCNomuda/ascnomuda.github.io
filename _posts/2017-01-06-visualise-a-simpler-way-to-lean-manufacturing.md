@@ -10,6 +10,7 @@ thumbnail: /seaeye-submersible-thumbnail.jpg
 alt: Submersible
 project-date: April 2014
 client: SAAB
+category: Manufacturing
 description: "Saab Seaeye is the world's largest manufacturer of electric Remotely Operated Vehicles (ROVs) and now includes Saab's underwater vehicle range of tethered, autonomous and hybrid underwater vehicle systems for the defence industry. It sets the benchmark by which all electric powered ROVs are compared today."
 ---
 

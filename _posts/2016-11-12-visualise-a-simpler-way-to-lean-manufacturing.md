@@ -10,6 +10,7 @@ thumbnail: hypertherm-machine-thumbnail.jpg
 alt: Terex scraper
 project-date: April 2014
 client: Terex
+category: Manufacturing
 description: "The world's most advanced visual work instructions - and more.."
 ---
 

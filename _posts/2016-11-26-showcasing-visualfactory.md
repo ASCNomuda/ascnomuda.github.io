@@ -10,6 +10,7 @@ thumbnail: /at-the-show-thumbnail.jpg
 alt: Phil and Mario at the show.
 project-date: April 2014
 client: NoMuda Ltd
+category: Showcasing
 description: "Visualise a simpler way to lean manufacturing with the world's most advanced visual work instruction software."
 ---
 
