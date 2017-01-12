@@ -6,7 +6,7 @@ layout: post
 modal-id: 2
 date: 2016-10-21 00:00:00
 img: hypertherm-machine.jpg
-thumbnail: hypertherm-machine-thumbnail.jpg
+thumbnail: /img/portfolio/hypertherm-machine-thumbnail.jpg
 alt: Hypertherm Machine
 project-date: April 2014
 client: Hypertherm
@@ -63,7 +63,7 @@ Lean manufacturing - made simple
 <br>Change the way you work - and achieve ROI fast
 <br>It really is possible - and easy to get started
 
-&nbsp;vScreen in use at work stationsVisualFactory is the world's most advanced visual work instruction software.
+ vScreen in use at work stationsVisualFactory is the world's most advanced visual work instruction software.
 <br>Forget pages of complex, written instructions - time consuming to produce and time consuming to use.
 
 VisualFactory simplifies and streamlines manufacturing processes by providing visual - easy to navigate - work instructions to production lines. Web-based, modular software designed to make high variety, complex assemblies extremely simple and cost effective.
