@@ -1,0 +1,28 @@
+# Site settings
+title: VisualFactory
+email: enquires@visualfactory.net
+description: "VisualFactory will reduce costs, increase productivity & enable paperless manufacturing."
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/@VisualFactory
+  - title: linkedin
+    url: https://www.linkedin.com/company/nomuda_2
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: NoMuda Ltd
+  - line: Cutlers Farm Business Centre, Edstone
+  - line: Wootton Wawen, Henley-in-Arden
+  - line: B95 6DJ
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#Encoding
+encoding: utf-8
+
+gems: [jekyll-admin]
+ # This will require each of these gems automatically.
