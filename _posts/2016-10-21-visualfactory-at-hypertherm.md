@@ -6,7 +6,7 @@ layout: post
 modal-id: 2
 date: 2016-10-21 00:00:00
 img: hypertherm-machine.jpg
-thumbnail: /img/hypertherm-machine-thumbnail.jpg
+thumbnail: hypertherm-machine-thumbnail.jpg
 alt: Hypertherm Machine
 project-date: April 2014
 client: Hypertherm
