@@ -1,0 +1,50 @@
+<footer class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="col-md-6 copyright-contain editable">
+                    <div class="copyright"><strong>&copy; {{ site.title }}.net {{ 'now' | date: "%Y" }}</strong></div>
+                    <div>All rights reserved.</div>
+                    <div><strong>Simplify - Standardize - Automate</strong></div>
+                </div>
+                <div class="col-md-6 social-buttons-contain">
+                    <ul class="list-inline social-buttons">
+                        {% for network in site.social %}
+                        <li>
+                            <a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="col-md-6 quicklinks-contain">
+                    <ul class="quicklinks editable">
+                        <li>
+                            <a class="page-scroll" href="#casestudies-anchor">Case Studies</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#how-anchor">How It Works</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#header-features-anchor">Features</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <ul class="quicklinks editable">
+                        <li>
+                            <a class="page-scroll" href="#contact-anchor">Contact</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="https://www.linkedin.com/company/nomuda_2">News</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="/blog">Blog</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
