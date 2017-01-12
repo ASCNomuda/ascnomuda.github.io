@@ -31,7 +31,7 @@ But that's not all. VisualFactory also simplifies and standardizes all data from
 
 Don't just take our word for it, read on for this month's case study from another client reaping the rewards, and for more on our data management module vRecord.
 
-&nbsp;VisualFactory: take a free trial
+ VisualFactory: take a free trial
 <br>Why not send us a sample of your work instructions and we'll upload them into Visual Factory's vScreen for you - and give you access for a limited time so you can see the huge benefits for yourself? If you'd like to find out more, please get in touch.
 
 Easy to implement - with instant results
