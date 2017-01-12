@@ -6,7 +6,7 @@ layout: post
 modal-id: 1
 date: 2016-10-18 00:00:00
 img: Soldier-helmet.jpg
-thumbnail: /img/portfolio/soldier-helmet-thumbnail.jpg
+thumbnail: /img/soldier-helmet-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Esterline Racal
