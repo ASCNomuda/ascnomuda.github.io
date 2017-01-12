@@ -1,14 +1,16 @@
 ---
 encoding: utf-8
 title: VisualFactory at Hypertherm
-subtitle: Case Study
+subtitle: Simplify - Standardize - Automate
 layout: post
-modal-id: 1
-date: 2016-10-18 00:00:00
-img: Soldier-helmet.jpg
-thumbnail: /img/portfolio/soldier-helmet-thumbnail.jpg
-alt: image-alt
+modal-id: 2
+date: 2016-10-21 00:00:00
+img: hypertherm-machine.jpg
+thumbnail: /img/portfolio/hypertherm-machine-thumbnail.jpg
+alt: Hypertherm Machine
 project-date: April 2014
-client: Esterline Racal
-description: "Case Study Esterline Racal Acoustics. Visualise a simpler way to lean manufacturing with the world/'s most advanced visual work instruction software."
+client: Hypertherm
+description: The vKanban process is enabling the team to increase the output capacity by 44 per cent with the same number of associates and no additional assembly floor space.
 ---
+
+
