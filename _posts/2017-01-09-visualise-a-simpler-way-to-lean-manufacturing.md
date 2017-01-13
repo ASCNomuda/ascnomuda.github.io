@@ -57,4 +57,4 @@ Mark describes the man behind VisualFactory - Nomuda's Managing Director Phil Bo
 
 And he praises Nomuda's commitment to ensuring VisualFactory continues to evolve. "It's very much a partnership. Nomuda are flexible, they're open to changes and modifications.
 
-"WHAT THEY HAVE IS A VERY GOOD PRODUCT. THERE'S NOTHING ELSE&nbsp;
+"WHAT THEY HAVE IS A VERY GOOD PRODUCT. THERE'S NOTHING ELSE
