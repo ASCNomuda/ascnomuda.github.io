@@ -1,6 +1,6 @@
 ---
 encoding: utf-8
-title: Visualise a simpler way to lean manufacturing
+title: Saab Seaeye Case Study
 subtitle: VisualFactory has a proven track record...
 layout: post
 modal-id: 6
@@ -11,7 +11,7 @@ alt: Submersible
 project-date: April 2014
 client: Racal
 category: Electronics
-description: "Saab Seaeye is the world's largest manufacturer of electric Remotely Operated Vehicles (ROVs) and now includes Saab's underwater vehicle range of tethered, autonomous and hybrid underwater vehicle systems for the defence industry. It sets the benchmark by which all electric powered ROVs are compared today."
+description: "Summary\nSaab Seaeye had become very reliant on staff knowledge; little production information was written down, most of it jotted in operator’s notebooks. \n\nIf staff left, so did their knowledge. The company wanted to get information out of heads and into a proper system. \n\nThis dependence on experience meant staff training was time consuming, with productivity and quality inconsistent.\n\nBuilding working instructions correctly with VisualFactory solved virtually all problems. It enabled the company to consistently control both product build process and quality."
 ---
 
 
