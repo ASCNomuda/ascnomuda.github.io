@@ -5,8 +5,8 @@ subtitle: VisualFactory has a proven track record...
 layout: post
 modal-id: 6
 date: 2017-01-09 11:00:00
-img: soldier-helmet.jpg
-thumbnail: /soldier-helmet-thumbnail.jpg
+img: seaeye-submersible.jpg
+thumbnail: /seaeye-submersible-thumbnail.jpg
 alt: Submersible
 project-date: April 2014
 client: Racal
