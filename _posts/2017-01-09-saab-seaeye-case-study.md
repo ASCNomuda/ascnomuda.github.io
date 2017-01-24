@@ -11,11 +11,11 @@ alt: Submersible
 project-date: April 2014
 client: Racal
 category: Electronics
-description-1: "Summary\nSaab Seaeye had become very reliant on staff knowledge; little production information was written down, most of it jotted in operator’s notebooks. \n\nIf staff left, so did their knowledge. The company wanted to get information out of heads and into a proper system. \n\nThis dependence on experience meant staff training was time consuming, with productivity and quality inconsistent.\n\nBuilding working instructions correctly with VisualFactory solved virtually all problems. It enabled the company to consistently control both product build process and quality."
-description-2:
-description-3:
-description-4:
-description-5:
+description-1: Summary
+description-2: 'Saab Seaeye had become very reliant on staff knowledge; little production information was written down, most of it jotted in operator’s notebooks.'
+description-3: 'If staff left, so did their knowledge. The company wanted to get information out of heads and into a proper system.'
+description-4: 'This dependence on experience meant staff training was time consuming, with productivity and quality inconsistent.'
+description-5: Building working instructions correctly with VisualFactory solved virtually all problems. It enabled the company to consistently control both product build process and quality.
 ---
 
 
@@ -29,7 +29,7 @@ description-5:
 
 A World leader in underwater vehicles, Saab Seaeye is the world's largest manufacturer of electric Remotely Operated Vehicles (ROVs).
 
-This includes Saab's range of tethered, autonomous and hybrid underwater vehicle systems for the defence industry.&nbsp;
+This includes Saab's range of tethered, autonomous and hybrid underwater vehicle systems for the defence industry.
 
 Saab Seaeye’s products set the benchmark by which all electric powered ROVs are compared today.
 
@@ -53,7 +53,7 @@ Saab Seaeye wanted to get control of their Work Instructions and turn knowledge 
 
 ### How We Helped
 
-NoMuda introduced a new philosophy to WI authoring, maximising benefit from VF's lean approach. For every product range one set of instructions is created, covering all processes to build all variants.&nbsp;
+NoMuda introduced a new philosophy to WI authoring, maximising benefit from VF's lean approach. For every product range one set of instructions is created, covering all processes to build all variants.
 
 VisualFactory tracks all tasks displaying to each operator only those pages required for the particular variant being assembled.
 
@@ -63,8 +63,8 @@ It was found that they could now build accurately to cost, quality and time targ
 
 #### The Numbers
 
-In 2011 the cost was &pound;268,000
+In 2011 the cost was £268,000
 
-By 2012, that figure was &pound;52,000
+By 2012, that figure was £52,000
 
-In 2013, it’s expected to be as low as &pound;28,000
+In 2013, it’s expected to be as low as £28,000
