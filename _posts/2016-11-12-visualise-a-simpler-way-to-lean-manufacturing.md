@@ -11,7 +11,7 @@ alt: Terex scraper
 project-date: April 2014
 client: Terex
 category: Manufacturing
-description: "The world's most advanced visual work instructions - and more.."
+description-1: "The world's most advanced visual work instructions - and more.."
 ---
 
 
