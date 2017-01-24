@@ -15,9 +15,6 @@ description: "Summary\nSaab Seaeye had become very reliant on staff knowledge; l
 ---
 
 
-CASE STUDY: SAAB SEAEYE, WORLD LEADER IN UNDERWATER VEHICLES.
-<br>Seaeye submersible
-
 Saab Seaeye is the world's largest manufacturer of electric Remotely Operated Vehicles (ROVs) and now includes Saab's underwater vehicle range of tethered, autonomous and hybrid underwater vehicle systems for the defence industry. It sets the benchmark by which all electric powered ROVs are compared today.
 
 The company turned to VisualFactory in 2009.
