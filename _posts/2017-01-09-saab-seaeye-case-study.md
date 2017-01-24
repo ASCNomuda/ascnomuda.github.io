@@ -15,43 +15,52 @@ description: "Summary\nSaab Seaeye had become very reliant on staff knowledge; l
 ---
 
 
-Saab Seaeye is the world's largest manufacturer of electric Remotely Operated Vehicles (ROVs) and now includes Saab's underwater vehicle range of tethered, autonomous and hybrid underwater vehicle systems for the defence industry. It sets the benchmark by which all electric powered ROVs are compared today.
+### The Results
 
-The company turned to VisualFactory in 2009.
+1. ##### 75% 1st year cost reduction
+2. ##### Return on investment in just 2 years
+3. ##### 90% expected 2nd year cost reduction
 
-Within just 2 years it achieved ROI - with re-work costs slashed by a staggering 75 per cent in one year alone.
+### Saab Seaeye
 
-That figure is expected to rise to 90 per cent another year on.
+A World leader in underwater vehicles, Saab Seaeye is the world's largest manufacturer of electric Remotely Operated Vehicles (ROVs).
 
-The move to VisualFactory was led by Operations Director Mark Exeter.
+This includes Saab's range of tethered, autonomous and hybrid underwater vehicle systems for the defence industry.&nbsp;
 
-"We were looking to get control of our work instructions - to get the knowledge out of people's heads," he explained.
+Saab Seaeye’s products set the benchmark by which all electric powered ROVs are compared today.
 
-"We were very much reliant on experience; products were built from people's knowledge with limited written or detailed instructions, which were very often in people's own notebooks."
+### Challenges
 
-Of course that meant should those people leave, so did their expertise. Training new staff was a time-consuming process, and productivity and quality inconsistent.
+Saab Seaeye wanted to get control of their Work Instructions and turn knowledge in people’s heads into permanent, company information. The company was:
 
-"VISUALFACTORY HAS HAD A HUGE IMPACT ON PRODUCTIVITY AND QUALITY."
-<br>Mark continued. "It has given us control back."
+* Dangerously reliant on operator’s experience
+* Products were built from people’s knowledge with limited written or detailed instructions
+* When people left, so did their expertise
+* Training new staff was a time-consuming process
+* Productivity and quality was inconsistent
 
-That can no better be illustrated than by looking at the staggering difference in the company's re-working costs.
+#### New System Goals
 
-In 2011, the cost was 268,000 sterling.
+* A manageable & flexible solution to the generation and maintenance of WIs
+* Reduce the labour costs involved with MI generation and maintenance
+* Able to respond rapidly to the changing requirements of Lean Manufacturing
+* Increase the quality and consistency of the production documentation
+* Reduce the learning curve for the introduction of new product variants
 
-By 2012, that figure was 52,000 sterling.
+### How We Helped
 
-Mark attributes a giant 85 per cent of that drop to VisualFactory - and its ability to achieve Right First Time quality.
+NoMuda introduced a new philosophy to WI authoring, maximising benefit from VF's lean approach. For every product range one set of instructions is created, covering all processes to build all variants.&nbsp;
 
-In 2013, it's expected to be as low as 28,000 sterling, less than 10 per cent of the figure just two years previous.
+VisualFactory tracks all tasks displaying to each operator only those pages required for the particular variant being assembled.
 
-"VisualFactory has allowed us to consistently build to cost, quality and time targets on our products," Mark says.
+Management found that this had a huge impact on productivity and quality. They reported feeling that VF and it's lean approach had 'given them control back', and that 'problems had just gone away'.
 
-"Since using visual factory to create our build instructions correctly, a large percentage of our problems have gone away - because we can now consistently control the product build process and its quality.
+It was found that they could now build accurately to cost, quality and time targets.
 
-"It's about going back to basics; yes you need to apply Six Sigma and Lean Manufacturing methodologies but it's about simplifying first and foremost. It's VisualFactory that allows us to go back to basics - and I don't think that can be overstated. If you're getting the basics right, then everything else quickly falls into place."
+#### The Numbers
 
-Mark describes the man behind VisualFactory - Nomuda's Managing Director Phil Borland -as a "lean manufacturing guru."
+In 2011 the cost was &pound;268,000
 
-And he praises Nomuda's commitment to ensuring VisualFactory continues to evolve. "It's very much a partnership. Nomuda are flexible, they're open to changes and modifications.
+By 2012, that figure was &pound;52,000
 
-"WHAT THEY HAVE IS A VERY GOOD PRODUCT. THERE'S NOTHING ELSE
+In 2013, it’s expected to be as low as &pound;28,000
