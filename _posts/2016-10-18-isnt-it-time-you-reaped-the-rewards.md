@@ -11,7 +11,8 @@ alt: image-alt
 project-date: April 2014
 client: Esterline Racal
 category: Electronics
-description-1: "Case Study Esterline Racal Acoustics. Visualise a simpler way to lean manufacturing with the world/'s most advanced visual work instruction software."
+description-heading: Summary
+description: 
 ---
 
 
