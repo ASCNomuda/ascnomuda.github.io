@@ -848,7 +848,7 @@ footer .copyright-contain {
 }
 
 .modal-body ul.list-inline li::before {
-    content: "•";
+    content: "";
     position: relative;
     top: 13px;
     right: 10px;
