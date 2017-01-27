@@ -14,16 +14,18 @@ category: Manufacturing
 description-heading: Summary
 description:
 cs-results-heading: The Results
-cs-results-figure-1: 75%
+cs-results-figure-1: '75%'
 cs-results-caption-1: 1st year cost reduction
-cs-results-figure-2: 90%
+cs-results-figure-2: '90%'
 cs-results-caption-2: expected 2nd year cost reduction
 cs-results-figure-3:
 cs-results-caption-3:
 ---
-Saab Seaeye had become very reliant on staff knowledge; little production information was written down, most of it jotted in operator's notebooks. 
 
-If staff left, so did their knowledge. The company wanted to get information out of heads and into a proper system. 
+
+Saab Seaeye had become very reliant on staff knowledge; little production information was written down, most of it jotted in operator's notebooks.
+
+If staff left, so did their knowledge. The company wanted to get information out of heads and into a proper system.
 
 This dependence on experience meant staff training was time consuming, with productivity and quality inconsistent.
 
@@ -33,7 +35,7 @@ Building working instructions correctly with VisualFactory solved virtually all 
 
 A World leader in underwater vehicles, Saab Seaeye is the world's largest manufacturer of electric Remotely Operated Vehicles (ROVs).
 
-This includes Saab's range of tethered, autonomous and hybrid underwater vehicle systems for the defence industry. 
+This includes Saab's range of tethered, autonomous and hybrid underwater vehicle systems for the defence industry.
 
 Saab Seaeye's products set the benchmark by which all electric powered ROVs are compared today.
 
@@ -65,9 +67,9 @@ Saab Seaeye wanted to get control of their Work Instructions and turn knowledge 
 
 #### How We Helped
 
-NoMuda introduced a new philosophy to WI authoring, maximising benefit from VF's lean approach. For every product range one set of instructions is created, covering all processes to build all variants. 
+NoMuda introduced a new philosophy to WI authoring, maximising benefit from VF's lean approach. For every product range one set of instructions is created, covering all processes to build all variants.
 
-VisualFactory tracks all tasks displaying to each operator only those pages required for the particular variant being assembled. 
+VisualFactory tracks all tasks displaying to each operator only those pages required for the particular variant being assembled.
 
 Management found that this had a huge impact on productivity and quality. They reported feeling that VF and it's lean approach had 'given them control back', and that 'problems had just gone away'.
 
@@ -75,11 +77,8 @@ It was found that they could now build accurately to cost, quality and time targ
 
 ##### The Numbers
 
-In 2011 the costs were 268,000 sterling
+In 2011 the costs were &pound;268,000
 
 In 2012 that figure was 52,000 sterling
 
 In 2013, it's expected to be as low as 28,000 sterling
-
-
-
