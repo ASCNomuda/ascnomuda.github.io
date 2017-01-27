@@ -65,3 +65,9 @@ With the task always presented to the operator in the same way, the learning cur
 Instructions for a variant of an existing product family can now be written in hours, not days or weeks, as previously.
 
 The speed of bringing valid and accurate information to the production floor also meant much greater production flexibility.
+
+#### The Numbers
+
+* Rejects reduced to around 0.5%
+* Work Instruction pages to be maintained reduced by 88%
+* Productivity increased by up to 15%
