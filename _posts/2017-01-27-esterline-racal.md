@@ -11,7 +11,7 @@ alt: Submersible
 project-date: April 2014
 client: SAAB
 category: Manufacturing
-description-heading: Summary
+description-heading:
 description:
 cs-results-heading: The Results
 cs-results-figure-1: '15%'
