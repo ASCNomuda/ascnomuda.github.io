@@ -1,4 +1,4 @@
-﻿---
+---
 encoding: utf-8
 title: Saab Seaeye Case Study
 subtitle: VisualFactory has a proven track record...
@@ -60,8 +60,8 @@ It was found that they could now build accurately to cost, quality and time targ
 
 #### The Numbers
 
-In 2011 the cost was £268,000
+In 2011 the cost was 268,000
 
-By 2012, that figure was £52,000
+By 2012, that figure was 52,000
 
-In 2013, it’s expected to be as low as £28,000
+In 2013, it’s expected to be as low as 28,000
