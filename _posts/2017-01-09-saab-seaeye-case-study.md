@@ -1,4 +1,4 @@
----
+﻿---
 encoding: utf-8
 title: Saab Seaeye Case Study
 subtitle: VisualFactory has a proven track record...
@@ -18,11 +18,9 @@ description:
 
 ### The Results
 
-<div class="figure">75%</div>
-<strong>1st year cost reduction</strong>
-
-<div class="figure">90%</div>
-<strong>expected 2nd year cost reduction</strong>
+1. ##### 75% 1st year cost reduction
+2. ##### Return on investment in just 2 years
+3. ##### 90% expected 2nd year cost reduction
 
 ### Saab Seaeye
 
