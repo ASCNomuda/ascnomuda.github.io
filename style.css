@@ -847,6 +847,10 @@ footer .copyright-contain {
     font-size: 50px;
 }
 
+.modal-body ul.list-inline li {
+    margin-left: 10px;
+}
+
 .modal-body ul.list-inline li::before {
     content: "";
     position: relative;
