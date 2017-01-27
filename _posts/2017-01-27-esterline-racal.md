@@ -68,6 +68,6 @@ The speed of bringing valid and accurate information to the production floor als
 
 #### The Numbers
 
-* Rejects reduced to around 0.5%
-* Work Instruction pages to be maintained reduced by 88%
-* Productivity increased by up to 15%
+* **Rejects reduced** to around **0.5%**
+* Work Instruction **pages to be maintained** reduced by **88%**
+* **Productivity increased** by up to **15%**
