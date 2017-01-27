@@ -52,7 +52,7 @@ They had to break the cycle, or they were going to be buried in ever increasing 
 * Reduce the labour costs involved with WI generation and maintenance.
 * Able to respond more rapidly to the changing requirements of Lean Manufacturing.
 * Increase the quality and consistency of the production documentation available.
-* Reduce the learning curve associated with the introduction of a new product variant.
+* Reduce the learning curve associated with the introduction of a new product variant
 
 #### How We Helped
 
