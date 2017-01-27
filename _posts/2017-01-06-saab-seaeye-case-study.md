@@ -79,6 +79,6 @@ It was found that they could now build accurately to cost, quality and time targ
 
 In 2011 the costs were &pound;268,000
 
-In 2012 that figure was 52,000 sterling
+In 2012 that figure was &pound;52,000
 
-In 2013, it's expected to be as low as 28,000 sterling
+In 2013, it's expected to be as low as &pound;28,000
