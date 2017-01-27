@@ -847,6 +847,15 @@ footer .copyright-contain {
     font-size: 50px;
 }
 
+.modal-body ul.list-inline li::before {
+    content: "•";
+    position: relative;
+    top: 13px;
+    right: 10px;
+    color: #333;
+    font-size: 30px;
+}
+
 .results-heading {
 
 }
