@@ -839,7 +839,7 @@ footer .copyright-contain {
 .modal-body ul li::before {
     content: "•";
     position: relative;
-    top: 12px;
+    top: 13px;
     right: 10px;
     color: #aab43c;
     font-size: 50px;
