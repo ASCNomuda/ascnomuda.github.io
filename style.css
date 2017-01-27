@@ -850,10 +850,10 @@ footer .copyright-contain {
 .modal-body ul.list-inline li::before {
     content: "";
     position: relative;
-    top: 13px;
-    right: 10px;
+    top: 0;
+    right: 0;
     color: #333;
-    font-size: 30px;
+    font-size: 1px;
 }
 
 .results-heading {
