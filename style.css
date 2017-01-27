@@ -826,8 +826,18 @@ footer .copyright-contain {
     transform: rotate(90deg);
 }
 
-.figure {
+.results-heading {
+
+}
+
+.results-figure {
     font-size: 50px;
     font-weight: bold;
     color: #aab43c;
+}
+
+.results-caption {
+    position:relative;
+    top: -10px;
+    font-weight: bold;
 }
