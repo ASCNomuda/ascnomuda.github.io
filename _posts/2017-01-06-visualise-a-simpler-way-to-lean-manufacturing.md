@@ -1,7 +1,7 @@
 ---
 encoding: utf-8
-title: Visualise a simpler way to lean manufacturing
-subtitle: VisualFactory has a proven track record...
+title: Saab Seaeye Case Study
+subtitle: Summary
 layout: post
 modal-id: 5
 date: 2017-01-06 10:00:00
@@ -11,50 +11,69 @@ alt: Submersible
 project-date: April 2014
 client: SAAB
 category: Manufacturing
-description-1: "Saab Seaeye is the world's largest manufacturer of electric Remotely Operated Vehicles (ROVs) and now includes Saab's underwater vehicle range of tethered, autonomous and hybrid underwater vehicle systems for the defence industry. It sets the benchmark by which all electric powered ROVs are compared today."
+description-heading:
+description:
 ---
+#### The Results
+
+<div class="figure">75%</div>
+<strong>1st year cost reduction</strong>
+
+<div class="figure">90%</div>
+<strong>expected 2nd year cost reduction</strong>
+
+#### Summary
+
+Saab Seaeye had become very reliant on staff knowledge; little production information was written down, most of it jotted in operator/'s notebooks. 
+
+If staff left, so did their knowledge. The company wanted to get information out of heads and into a proper system. 
+
+This dependence on experience meant staff training was time consuming, with productivity and quality inconsistent.
+
+Building working instructions correctly with VisualFactory solved virtually all problems. It enabled the company to consistently control both product build process and quality.
+
+#### Saab Seaeye
+
+A World leader in underwater vehicles, Saab Seaeye is the world's largest manufacturer of electric Remotely Operated Vehicles (ROVs).
+
+This includes Saab/'s range of tethered, autonomous and hybrid underwater vehicle systems for the defence industry. 
+
+Saab Seaeye/'s products set the benchmark by which all electric powered ROVs are compared today.
+
+#### Challenges
+
+Saab Seaeye wanted to get control of their Work Instructions and turn knowledge in people/'s heads into permanent, company information. The company was:
+
+* Dangerously reliant on operator/'s experience
+
+* Products were built from people/'s knowledge with limited written or detailed instructions
+
+* When people left, so did their expertise
+
+* Training new staff was a time-consuming process
+
+* Productivity and quality was inconsistent
+
+#### New System Goals
+
+* A manageable & flexible solution to the generation and maintenance of WIs
+
+* Reduce the labour costs involved with MI generation and maintenance
+
+* Able to respond rapidly to the changing requirements of Lean Manufacturing
+
+* Increase the quality and consistency of the production documentation
+
+* Reduce the learning curve for the introduction of new product variants
+
+#### How We Helped
+
+NoMuda introduced a new philosophy to WI authoring, maximising benefit from VF/'s lean approach. For every product range one set of instructions is created, covering all processes to build all variants. 
+
+VisualFactory tracks all tasks displaying to each operator only those pages required for the particular variant being assembled. 
+
+Management found that this had a huge impact on productivity and quality. They reported feeling that VF and it's lean approach had 'given them control back', and that 'problems had just gone away'.
+
+It was found that they could now build accurately to cost, quality and time targets.
 
 
-CASE STUDY: SAAB SEAEYE, WORLD LEADER IN UNDERWATER VEHICLES.
-<br>Seaeye Submersible Case Study
-
-Saab Seaeye is the world's largest manufacturer of electric Remotely Operated Vehicles (ROVs) and now includes Saab's underwater vehicle range of tethered, autonomous and hybrid underwater vehicle systems for the defence industry. It sets the benchmark by which all electric powered ROVs are compared today.
-
-The company turned to VisualFactory in 2009.
-
-Within just 2 years it achieved ROI - with re-work costs slashed by a staggering 75 per cent in one year alone.
-
-That figure is expected to rise to 90 per cent another year on.
-
-The move to VisualFactory was led by Operations Director Mark Exeter.
-
-"We were looking to get control of our work instructions - to get the knowledge out of people's heads," he explained.
-
-"We were very much reliant on experience; products were built from people's knowledge with limited written or detailed instructions, which were very often in people's own notebooks."
-
-Of course that meant should those people leave, so did their expertise. Training new staff was a time-consuming process, and productivity and quality inconsistent.
-
-"VISUALFACTORY HAS HAD A HUGE IMPACT ON PRODUCTIVITY AND QUALITY."
-<br>Mark continued. "It has given us control back."
-
-That can no better be illustrated than by looking at the staggering difference in the company's re-working costs.
-
-In 2011, the cost was 268,000 sterling.
-
-By 2012, that figure was 52,000 sterling.
-
-Mark attributes a giant 85 per cent of that drop to VisualFactory - and its ability to achieve Right First Time quality.
-
-In 2013, it's expected to be as low as 28,000 sterling, less than 10 per cent of the figure just two years previous.
-
-"VisualFactory has allowed us to consistently build to cost, quality and time targets on our products," Mark says.
-
-"Since using visual factory to create our build instructions correctly, a large percentage of our problems have gone away - because we can now consistently control the product build process and its quality.
-
-"It's about going back to basics; yes you need to apply Six Sigma and Lean Manufacturing methodologies but it's about simplifying first and foremost. It's VisualFactory that allows us to go back to basics - and I don't think that can be overstated. If you're getting the basics right, then everything else quickly falls into place."
-
-Mark describes the man behind VisualFactory - Nomuda's Managing Director Phil Borland -as a "lean manufacturing guru."
-
-And he praises Nomuda's commitment to ensuring VisualFactory continues to evolve. "It's very much a partnership. Nomuda are flexible, they're open to changes and modifications.
-
-"WHAT THEY HAVE IS A VERY GOOD PRODUCT. THERE'S NOTHING ELSE

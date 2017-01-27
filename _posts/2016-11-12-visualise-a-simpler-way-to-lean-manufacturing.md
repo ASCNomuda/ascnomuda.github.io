@@ -1,6 +1,6 @@
 ---
 encoding: utf-8
-title: Visualise a simpler way to lean manufacturing
+title: Terex, a simpler way to lean manufacturing
 subtitle: Simplify - Standardize - Automate
 layout: post
 modal-id: 3
@@ -11,7 +11,8 @@ alt: Terex scraper
 project-date: April 2014
 client: Terex
 category: Manufacturing
-description-1: "The world's most advanced visual work instructions - and more.."
+description-heading: Summary
+description:
 ---
 
 

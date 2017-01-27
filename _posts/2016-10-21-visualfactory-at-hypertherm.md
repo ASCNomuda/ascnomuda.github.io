@@ -11,7 +11,8 @@ alt: Hypertherm Machine
 project-date: April 2014
 client: Hypertherm
 category: Manufacturing
-description-1: The vKanban process is enabling the team to increase the output capacity by 44 per cent with the same number of associates and no additional assembly floor space.
+description-heading:
+description: The vKanban process is enabling the team to increase the output capacity by 44 per cent with the same number of associates and no additional assembly floor space.
 ---
 
 
