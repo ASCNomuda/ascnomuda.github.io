@@ -834,11 +834,13 @@ footer .copyright-contain {
 
 .modal-body ul li {
     margin-bottom: 10px;
-    margin-left: 10px;
 }
 
 .modal-body ul li::before {
     content: "•";
+    position: relative;
+    top: 5px;
+    right: 10px;
     color: #aab43c;
     font-size: 50px;
 }
@@ -848,9 +850,6 @@ footer .copyright-contain {
 }
 
 .results-figure {
-    position: relative;
-    top: 5px;
-    
     font-size: 50px;
     font-weight: bold;
     color: #aab43c;
