@@ -9,13 +9,10 @@ img: seaeye-submersible.jpg
 thumbnail: /seaeye-submersible-thumbnail.jpg
 alt: Submersible
 project-date: April 2014
-client: Racal
-category: Electronics
-description-1: Summary
-description-2: 'Saab Seaeye had become very reliant on staff knowledge; little production information was written down, most of it jotted in operator’s notebooks.'
-description-3: 'If staff left, so did their knowledge. The company wanted to get information out of heads and into a proper system.'
-description-4: 'This dependence on experience meant staff training was time consuming, with productivity and quality inconsistent.'
-description-5: Building working instructions correctly with VisualFactory solved virtually all problems. It enabled the company to consistently control both product build process and quality.
+client: Saab Seaeye
+category: Manufacturing
+description-heading:
+description:
 ---
 
 
