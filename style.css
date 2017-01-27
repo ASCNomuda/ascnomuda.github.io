@@ -833,6 +833,7 @@ footer .copyright-contain {
 }
 
 .modal-body ul li {
+    margin-top: -15px;
     margin-bottom: 10px;
     margin-left: -10px;
 }
