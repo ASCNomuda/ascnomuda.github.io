@@ -18,9 +18,11 @@ description:
 
 ### The Results
 
-1. ##### 75% 1st year cost reduction
-2. ##### Return on investment in just 2 years
-3. ##### 90% expected 2nd year cost reduction
+<div class="figure">75%</div>
+<strong>1st year cost reduction</strong>
+
+<div class="figure">90%</div>
+<strong>expected 2nd year cost reduction</strong>
 
 ### Saab Seaeye
 
