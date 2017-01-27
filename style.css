@@ -826,6 +826,14 @@ footer .copyright-contain {
     transform: rotate(90deg);
 }
 
+.modal-body ul {
+    margin-bottom: 20px;
+}
+
+.modal-body ul li {
+    margin-bottom: 10px;
+}
+
 .results-heading {
 
 }
