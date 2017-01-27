@@ -827,7 +827,8 @@ footer .copyright-contain {
 }
 
 .modal-body ul {
-    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
 
 .modal-body ul li {
