@@ -16,9 +16,9 @@ description:
 cs-results-heading: The Results
 cs-results-figure-1: '15%'
 cs-results-caption-1: productivity increase
-cs-results-figure-2:
-cs-results-caption-2: rejects reduced to
-cs-results-figure-3: '0.5%'
+cs-results-figure-2: '0.5%'
+cs-results-caption-2: rejects down to
+cs-results-figure-3:
 cs-results-caption-3:
 ---
 
