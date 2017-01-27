@@ -768,10 +768,11 @@ footer .copyright-contain {
 .portfolio-modal-vf .modal-content h2 {
     margin-bottom: 15px;
     font-size: 3em;
+    text-align: center;
 }
 
 .portfolio-modal-vf .modal-content p {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .portfolio-modal-vf .modal-content p.item-intro {
@@ -823,4 +824,10 @@ footer .copyright-contain {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+.figure {
+    font-size: 50px;
+    font-weight: bold;
+    color: #aab43c;
 }
